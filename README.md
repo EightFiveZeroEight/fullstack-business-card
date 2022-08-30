@@ -1,2 +1,3 @@
-# fullstack-business-card
-A business card made for the prepwork portion of fullstack academy's coding course.
+# Fullstack Business Card
+A business card for Fullstack Adademy's intro workshop. To view the finished product visit the following link:
+https://eightfivezeroeight.github.io/fullstack-business-card/
